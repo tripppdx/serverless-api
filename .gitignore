@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# MISC
+.prettierrc
+.DS_Store
